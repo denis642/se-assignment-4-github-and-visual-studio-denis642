@@ -16,11 +16,8 @@ GitHub is a web-based platform primarily used for version control and collaborat
  
   Its core functions include repository hosting, where users can store and manage their code, and version control, which tracks changes to the codebase over time. 
   
-  Key features include pull requests, which allow developers to propose changes to the code and discuss these changes with team members before merging them into the main project, and issues, a system for tracking tasks, enhancements, and bugs.
-  
-   GitHub also supports continuous integration and deployment, enabling automated testing and deployment of code changes.
+  Key features include pull requests, which allow developers to propose changes to the code and discuss these changes with team members before merging them into the main project, and issues, a system for tracking tasks, enhancements, and bugs. GitHub also supports continuous integration and deployment, enabling automated testing and deployment of code changes.
    
-    Additionally, it offers robust collaboration tools such as wikis and project boards, which help teams document their projects and manage workflows efficiently. By providing a centralized platform where developers can collaborate, review code, and manage projects, GitHub significantly enhances the efficiency and quality of software development.
 
 Repositories on GitHub:
 
